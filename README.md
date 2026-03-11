@@ -19,6 +19,8 @@ Foram realizados dois cursos contendo:
 
 # 🎓 Conclusão dos Cursos
 
+tudo isso está na pasta de evidências.
+
 # ✔️ Objetivo da Atividade
 
 Compreender os conceitos fundamentais do Git e GitHub, incluindo:
